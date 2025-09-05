@@ -1,10 +1,5 @@
 # 📌 Guía básica de Git y GitHub
-
-Este documento contiene los comandos esenciales de **Git** y **GitHub** que se deben utilizar para trabajar en un repositorio compartido.  
-Cada integrante del equipo debe realizar **al menos un commit** y su respectivo **push** para evidenciar su participación.  
-
----
-
+Anderson Topaga
 ## 🔹 Configuración inicial
 ```bash
 # Configurar nombre de usuario
@@ -67,10 +62,4 @@ git merge nombre-rama   # Fusionar una rama con la actual
 - Siempre ejecutar `git pull` antes de empezar a trabajar.
 - Resolver conflictos en equipo cuando ocurran.
 
----
-
-## 👉 Actividad
-Cada integrante debe:
-1. Hacer un cambio en el repositorio (ej: añadir una línea en el README o un archivo nuevo).  
-2. Realizar un **commit** con su nombre en el mensaje.  
-3. Ejecutar `git push` para subir sus cambios.  
+ 
