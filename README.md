@@ -79,3 +79,35 @@ git merge nombre-rama   # Fusionar una rama con la actual
   👉 Envía todas tus ramas locales al repositorio remoto de una sola vez.
 
   ## 🟢🟢 Andrey Llanos
+
+  ## 🧁🧁 Laura Orejuela
+
+## 🔹 Trabajando con cambios
+```bash
+git status                # Ver estado de archivos
+git add archivo.txt       # Agregar archivo al área de preparación
+git add .                 # Agregar todos los archivos
+git commit -m "mensaje"   # Guardar cambios en el historial
+git log                   # Ver historial de commits
+git diff                  # Ver diferencias entre cambios
+```
+## 🔹 Repositorio remoto
+```bash
+git remote -v             # Listar repositorios remotos
+git remote add origin URL # Conectar repo local con remoto
+git push origin main      # Subir commits a la rama main
+git pull origin main      # Descargar y fusionar cambios
+git fetch                 # Descargar cambios sin fusionar
+```
+## 🔹 Ramas (branches)
+```bash
+git branch                # Listar ramas
+git branch nueva-rama      # Crear una nueva rama
+git checkout nombre-rama   # Cambiar a una rama
+git switch nombre-rama     # Cambiar de rama (forma moderna)
+git merge nombre-rama      # Fusionar una rama en la actual
+git branch -d nombre-rama  # Eliminar una rama
+```
+   ## 🧁🧁 Laura Orejuela
+
+  
