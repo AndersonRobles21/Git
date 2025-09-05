@@ -50,3 +50,32 @@ git merge nombre-rama   # Fusionar una rama con la actual
 - Resolver conflictos en equipo cuando ocurran.    
 
  ## 🔴🔴Anderson Topaga
+
+# 🟢🟢 Andrey Llanos
+
+- **Editar el último commit (antes de hacer push):**Andrey LLanos
+  ```bash
+  git commit --amend -m "fix: corrige validación de intensidad en la clase Clima"
+  ```
+  👉 Se usa para editar el mensaje o incluir cambios que olvidaste antes de enviar el commit.
+
+- **Commit parcial (solo una parte del archivo):**Andrey LLanos
+  ```bash
+  git add -p
+  git commit -m "feat: agrega getter para magnitud del terremoto"
+  ```
+  👉 Permite seleccionar pedazos de código de un mismo archivo para hacer commits más pequeños y claros.
+
+- **Push de todas las etiquetas (tags):** Andrey LLanos
+  ```bash
+  git push --tags
+  ```
+  👉 Se usa cuando quieres subir versiones o releases que marcaste con `git tag`.
+
+- **Push de todas las ramas locales:**Andrey LLanos
+  ```bash
+  git push --all origin
+  ```
+  👉 Envía todas tus ramas locales al repositorio remoto de una sola vez.
+
+  # 🟢🟢 Andrey Llanos
