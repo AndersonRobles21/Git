@@ -1,5 +1,4 @@
-# 📌 Guía básica de Git y GitHub
-Anderson Topaga
+## 🔴🔴Anderson Topaga
 ## 🔹 Configuración inicial
 ```bash
 # Configurar nombre de usuario
@@ -49,4 +48,5 @@ git merge nombre-rama   # Fusionar una rama con la actual
 - Usar mensajes claros y descriptivos.
 - Siempre ejecutar `git pull` antes de empezar a trabajar.
 - Resolver conflictos en equipo cuando ocurran.    
- Anderson Topaga
+
+ ## 🔴🔴Anderson Topaga
