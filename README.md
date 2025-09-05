@@ -3,7 +3,7 @@
 ```bash
 # Configurar nombre de usuario
 git config --global user.name "Tu Nombre"
-h
+
 # Configurar correo electrónico
 git config --global user.email "tuemail@example.com"
 ```
